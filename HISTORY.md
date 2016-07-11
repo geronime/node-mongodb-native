@@ -1,3 +1,8 @@
+2.0.55.p0 07-11-2016
+--------------------
+* Updated mongodb-core to 1.2.32.p0
+* Pass down customKeepAlive mongos options to mongodb-core
+
 2.0.55 01-04-2016
 -----------------
 * Updated mongodb-core to 1.2.31.
