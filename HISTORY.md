@@ -1,3 +1,7 @@
+2.0.55.p1 10-05-2016
+--------------------
+* Updated mongodb-core to 1.2.32.p1 to have the kerberos as optinal peer dependency
+
 2.0.55.p0 07-11-2016
 --------------------
 * Updated mongodb-core to 1.2.32.p0
