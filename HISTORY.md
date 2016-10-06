@@ -1,3 +1,7 @@
+2.0.55.p2 10-06-2016
+--------------------
+* Updated mongodb-core to 1.2.32.p2 - Removed annoying missing Kerberos error (NODE-654)
+
 2.0.55.p1 10-05-2016
 --------------------
 * Updated mongodb-core to 1.2.32.p1 to have the kerberos as optinal peer dependency
