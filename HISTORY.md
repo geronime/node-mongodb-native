@@ -1,3 +1,7 @@
+2.0.55.p3 12-06-2016
+--------------------
+* Updated mongodb-core to 1.2.32.p3 - Fix for not selecting mongos proxy when there's one available
+
 2.0.55.p2 10-06-2016
 --------------------
 * Updated mongodb-core to 1.2.32.p2 - Removed annoying missing Kerberos error (NODE-654)
